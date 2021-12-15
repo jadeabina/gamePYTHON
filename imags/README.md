@@ -19,10 +19,14 @@
 
 
 
--Esse joguinho tem como finalidade desviar dos obstaculos e não cair
--Ele é jogado com a barra de espaço
+-Esse joguinho tem como finalidade desviar dos obstaculos e não cair;
+
+-Ele é jogado com a barra de espaço;
+
 -Esse jogo foi desenvolvido em python; 
+
 -Comandos basicos;
+
 -Com apoio des video para a criação do jogo;
 
 
