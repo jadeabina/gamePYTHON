@@ -1,9 +1,9 @@
 📚 GAME EM PYTHON
 
-Nesse repositório tem dois mini games onde um foi desenvolvido com apoio de video aulas e outro esta sendo desenvolvido sem apoio.
+✨Nesse repositório tem dois mini games onde um foi desenvolvido com apoio de video aulas e outro esta sendo desenvolvido sem apoio.
 
 
--FLAPPY BIRD-COM APOIO
+🔸-FLAPPY BIRD-COM APOIO
 
 -Esse joguinho tem como finalidade desviar dos obstaculos e não cair 
 
@@ -16,7 +16,7 @@ Nesse repositório tem dois mini games onde um foi desenvolvido com apoio de vid
 -Com apoio des video para a criação do jogo;
 
 
--AVENTURE-SEM APOIO
+🔸-AVENTURE-SEM APOIO
 
 -Esse mini game vai ter com finalidade aventura; 
 
@@ -27,4 +27,4 @@ Nesse repositório tem dois mini games onde um foi desenvolvido com apoio de vid
 -Esse jogo esta sendo desenvolvido em python.
 
 
-Escrito por https://www.linkedin.com/in/jade-abinajm-3a08bb196/
+🔸Escrito por https://www.linkedin.com/in/jade-abinajm-3a08bb196/
