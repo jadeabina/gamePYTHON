@@ -13,7 +13,8 @@
 
 -FLAPPY BIRD-
 
-![](../../../Desktop/jogo/WhatsApp Image 2021-12-15 at 15.40.45.jpeg)
+
+![WhatsApp Image 2021-12-15 at 15 40 45](https://user-images.githubusercontent.com/72051334/146247967-793bbbef-03f5-444a-9dbd-ab1b39737d8b.jpeg)
 
 
 
